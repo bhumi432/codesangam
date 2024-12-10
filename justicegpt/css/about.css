@@ -59,6 +59,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-left: 20rem;
 }
 
 .nav_links a {
